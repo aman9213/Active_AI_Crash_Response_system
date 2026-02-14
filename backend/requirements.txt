@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+transformers>=4.38
+accelerate
+python-multipart
+pillow
+bitsandbytes
+av
